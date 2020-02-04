@@ -1,0 +1,27 @@
+{
+  "name": "rocketseat-launchbase-foodfy",
+  "version": "1.0.0",
+  "description": "# Foodfy",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavocastrow/rocketseat-launchbase-foodfy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavocastrow/rocketseat-launchbase-foodfy/issues"
+  },
+  "homepage": "https://github.com/gustavocastrow/rocketseat-launchbase-foodfy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
